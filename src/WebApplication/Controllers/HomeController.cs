@@ -15,7 +15,7 @@ namespace WebApplication.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "New learning system.";
+            ViewData["Message"] = "New knowledgebase system.";
 
             return View();
         }
